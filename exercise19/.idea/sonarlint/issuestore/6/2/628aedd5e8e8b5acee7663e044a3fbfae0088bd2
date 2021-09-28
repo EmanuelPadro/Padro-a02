@@ -1,0 +1,7 @@
+
+f	java:S116"QRename this field "Height" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑìÓ¨
+f	java:S116"QRename this field "Weight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Â´‘
+b	java:S116"NRename this field "BMI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÕå^
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∫øΩÔ
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∫øΩÔ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©Ãè˜

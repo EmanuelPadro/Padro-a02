@@ -1,0 +1,5 @@
+
+h	java:S116"NRename this field "BAC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú©§İüÿÿÿÿ
+f	java:S116"QRename this field "Output" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ĞÍº
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãü½
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö‹öÊ

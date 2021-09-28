@@ -1,0 +1,17 @@
+
+i	java:S116"TRename this field "Principal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã—åÛ
+i	java:S116"ORename this field "Rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û®àÜùÿÿÿÿ
+e	java:S116"PRename this field "Years" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¼¬ð
+g	java:S116"RRename this field "Accrued" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùâÊ“
+7
+java:S1110"!Remove these useless parentheses.(Êáóµ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„€½„þÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„€½„þÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„€½„þÿÿÿÿ
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„€½„þÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ñÉ<
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬œË¸

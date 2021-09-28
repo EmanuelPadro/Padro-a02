@@ -1,0 +1,22 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜°Ñ¨ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ‰®è
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™†ÌÀ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Â›úF
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹îª©ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÒ«Şúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§ò³õşÿÿÿÿ
+c	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ñ»ë
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(´Ü€„
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ä§çîûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(æ÷¿Àşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õöº•øÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¯„‡
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡–Ì¥şÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÍŒÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÃ±Üÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¢À
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÕ«ƒùÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ñ»ë
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§±ş²úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òéÅ†

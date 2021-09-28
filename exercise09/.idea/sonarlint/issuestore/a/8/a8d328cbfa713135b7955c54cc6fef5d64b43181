@@ -1,0 +1,5 @@
+
+o	java:S116"URename this field "SquareFeet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Íƒøÿÿÿÿ
+g	java:S116"RRename this field "Gallons" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¸ªâ
+s	java:S116"^Rename this field "SquareFeetPerGallon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¾²§
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø¬¤ÿÿÿÿÿ

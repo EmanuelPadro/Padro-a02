@@ -1,0 +1,17 @@
+
+k	java:S116"VRename this field "SlicesTotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÑ˜ 
+t	java:S116"ZRename this field "SlicesPerPerson" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÃÜïüÿÿÿÿ
+n	java:S116"YRename this field "SlicesLeftover" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¥ƒç
+f	java:S116"QRename this field "People" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ì‰Ã
+f	java:S116"QRename this field "Pizzas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¬“À
+A
+java:S2185"&Remove this silly call to "Math.floor"(·Õ–¿øÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŒÉÞ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŒÉÞ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŒÉÞ
+`
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(·Õ–¿øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ÑÚÖ

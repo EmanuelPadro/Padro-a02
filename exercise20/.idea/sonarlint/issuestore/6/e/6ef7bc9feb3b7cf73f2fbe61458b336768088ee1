@@ -1,0 +1,19 @@
+
+e	java:S116"PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÆ¢
+e	java:S116"PRename this field "Order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¶Ø¡
+j	java:S116"PRename this field "Total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’í¬æÿÿÿÿÿ
+c	java:S116"NRename this field "Tax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â ¢£
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è£µ¤úÿÿÿÿ
+Q
+java:S1117"6Rename "Tax" which hides the field declared at line 7.(„¯ÙÅşÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊš®
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊš®
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊš®
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èóà
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è£µ¤úÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è£µ¤úÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¯ÙÅşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™¤øÿÿÿÿ
